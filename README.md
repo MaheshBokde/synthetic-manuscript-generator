@@ -16,3 +16,6 @@ The generator creates synthetic manuscript images with:
    ```bash
    git clone <your-private-github-repo-link>
    cd synthetic-manuscript-generator
+# The Full Data Upload on Hugging Face
+https://huggingface.co/datasets/MaheshBokde123/mahesh_synthetic_manuscripts/tree/main/data/devanagari
+
